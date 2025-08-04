@@ -1,0 +1,3 @@
+interface PopupStates{
+    schemaGeneratorPopup: boolean
+}
